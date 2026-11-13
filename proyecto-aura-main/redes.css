@@ -1,0 +1,46 @@
+body{
+    background-image: url("59487.jpg");
+    background-size:cover ;
+}
+.wiwi{
+    text-align: center;
+    font-size: 25px;
+    color:rgba(158, 186, 242, 0.752);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.boton{
+    background-color: rgb(59, 79, 192);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 15px;
+     font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+   transition: all 0.3s;
+}
+.boton:hover{
+    background-color: rgb(73, 98, 238) ;
+    transform: scale(1.05);
+}
+.volver{
+    background-color: rgb(57, 57, 202);
+    padding: 15px 20px;
+    font-size: 15px;
+    color: black;
+    border-radius: 10px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+   transition: all 0.3s;
+
+}
+.volver:hover{
+    background-color:rgb(11, 11, 98);
+    transform: scale(1.05);
+}
