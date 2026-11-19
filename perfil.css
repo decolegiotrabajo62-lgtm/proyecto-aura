@@ -1,11 +1,12 @@
 .per{
     text-align: center;
     font-size: 30px;
-font-family: "Cascadia Code", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: weight;
-  font-style:normal;
+   font-family: "Jost", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: weight;
+   font-style: normal;
 }
+
 
 
 body{ 
@@ -21,10 +22,16 @@ body{
     text-decoration: none;
     color: #020202;
     background-color: rgb(47, 56, 92);
-    border: none;
+    padding: 10px 20px;
+    border : none;
     border-radius: 10px;
-    padding: 15px 25px;
-    transition: all 0.3s ease;}
+    text-align: center;
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    transition: all 0.3s ease;
+}
 .back:hover {
     background-color: rgb(11, 11, 98);
     transform: scale(2.15);

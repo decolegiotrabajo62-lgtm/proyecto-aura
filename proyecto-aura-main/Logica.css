@@ -1,0 +1,40 @@
+body{
+    background-image: url("descarga (6).jpg");
+    background-size: cover;
+}
+.log{
+    text-align: center;
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 30px;
+}
+.boton{
+    background-color: rgb(110, 142, 179);
+    background-size: 25px;
+    color:black;
+   padding: 15px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin: 10px;
+    transition: 0.3s ease;
+}
+.boton:hover{
+    background-color: rgb(138, 177, 221);
+    transform: scale(1.1);
+}
+.volver{
+
+    padding: 10px 20px;
+    background-color: rgb(110, 142, 179);
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    transition:  0.3s ease;
+}
+.volver:hover{
+    background-color:  rgb(11, 11, 98);
+    transform: scale(1.1);
+}

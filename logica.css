@@ -1,0 +1,47 @@
+body{
+    background-image: url("descarga (6).jpg");
+    background-size: cover;
+}
+.seso{
+    text-align: center;
+    font-size: 25px;
+     font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+
+    
+}
+.boton{
+    font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(67, 104, 133);
+    border : none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+     font-family: "Jost", sans-serif;
+    font-optical-sizing:auto;
+
+}
+.boton:hover {
+    background-color: rgb(102, 155, 196);
+    transform: scale(1.10);
+
+}
+.volver{  
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(67, 104, 133);
+    border : none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+     font-family: "Jost", sans-serif;
+    font-optical-sizing:auto;
+
+}
+.volver:hover {
+    background-color:  rgb(11, 11, 98);
+    transform: scale(1.05);
+
+}
